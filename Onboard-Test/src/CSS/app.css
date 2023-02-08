@@ -1,0 +1,142 @@
+.statbtn {
+  height: 75px;
+  border-radius: 10px;
+  background-color: #f6f6f6;
+}
+
+.statbtn:hover {
+  background-color: #d6d6d6;
+}
+
+.cstm-btn {
+  height: 50px;
+  border-radius: 10px;
+  background-color: #f6f6f6;
+}
+
+.cstm-btn:hover {
+  background-color: #d6d6d6;
+}
+
+.table-container {
+  background-color: #f6f6f6;
+  border-radius: 10px;
+}
+
+.dataTables_filter input {
+  float: right;
+  text-align: left;
+  width: 400%;
+}
+
+input[type=search] {
+  color: #fff;
+}
+
+th {
+  font-size: medium;
+  font-weight: 800;
+}
+
+td {
+  font-size: medium;
+  font-weight: 500;
+}
+
+.top-bar {
+  height: 50px;
+  border-radius: 10px;
+  background-color: #f6f6f6;
+}
+
+.dropdown-toggle::after {
+  content: none;
+}
+
+.add-access {
+  border-radius: 10px;
+  background-color: #fff;
+}
+
+#dropdownMenuButton {
+  background-color: #fff;
+  color: #1d1d1d;
+  border: none;
+}
+
+GrFormAdd {
+  background-color: #fff;
+}
+
+.side-bar {
+  background-color: #f6f6f6;
+  border-radius: 10px;
+  height: 68vh;
+}
+
+.side-bar-text {
+  color: #1d1d1d;
+}
+
+.access-topic-primary {
+  color: #1d1d1d;
+}
+
+.access-topic-secondary {
+  color: #a4a4a4;
+}
+
+.access-options {
+  color: #a4a4a4;
+}
+
+.unspecified-topbar-input {
+  border: none;
+}
+
+.unspecified-topbar-input::placeholder {
+  font-size: small;
+}
+
+/* sign out btn */
+#logOut{
+  width: 200px;
+  margin-left: 10px;
+  margin-top: 60px;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* padding: 8px 13px; */
+  gap: 15px;
+  transition: all 0.5s;
+  height: 60px;
+  font-size: 20px;
+  background-color: white;
+  border-radius: 10px;
+  border: none;
+}
+
+
+#logOut:hover{
+  border: white solid 1px;
+  background-color: transparent;
+  color: white;
+}
+
+
+#signout-mes{
+  text-align: center;
+  padding-bottom: 12px;
+}
+
+
+
+.proceed{
+  text-decoration: none;
+  color: black;
+}
+
+.logooutImg{
+  width: 250px;
+}

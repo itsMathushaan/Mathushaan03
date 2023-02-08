@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;1,200&display=swap');
+
+
+
+.dataTables_wrapper .dataTables_filter {
+    float: right;
+    
+    height: 49px;
+}  
+* {
+  font-family: 'Poppins', sans-serif;
+  }
+
+  div.dataTables_wrapper div.dataTables_filter input {
+    
+    width: 60vw;
+    height: 40px;
+    
+    
+  }
+
+
+.display{
+
+  text-align: left;
+  
+
+
+}    
+
+
+.dt-buttons{
+ 
+  
+  
+  column-count: 1;
+}
+
+.MainDiv{
+  padding-top: 10px;
+}
+
+
+
+.nav-item{
+  font-weight:normal;
+  font-size: x-large;
+  
+
+}
+
+
+/* th{
+  text-align: center;
+} */
+
+/* .sorting{
+  text-align: center;
+} */
+
+
+
+/* .dataTables_wrapper{
+  border-style: solid;
+  border-width:0rem;
+
+} */
